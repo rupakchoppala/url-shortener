@@ -208,7 +208,7 @@ Authorization: Bearer <your_jwt_token>
 
 ## 📥 Sample Postman Collection
 
-👉 [Download Postman Collection]([https://www.postman.com/collections/your-collection-id](https://api.postman.com/collections/40352352-378bf140-0ce2-448d-827b-1da0b0f6fe23?access_key=PMAT-01JYGD334W9MTXS0EE4GGW94A6))  
+👉 [Download Postman Collection](https://api.postman.com/collections/40352352-378bf140-0ce2-448d-827b-1da0b0f6fe23?access_key=PMAT-01JYGD334W9MTXS0EE4GGW94A6)  
 *(Replace with actual link after exporting Postman collection)*
 
 To export from Postman:
